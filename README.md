@@ -1,5 +1,5 @@
-
-
+[! [Masterhead] 
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Fba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5%2F68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966&imgrefurl=https%3A%2F%2Fgithub.com%2Fdavidperjac&tbnid=4kAY1o2Qnffr8M&vet=12ahUKEwjzpJOM1Pv7AhWlqScCHdP0A7QQMygEegUIARCQAg..i&docid=SRrTITqUz0Vu6M&w=1900&h=684&q=coding%20banner%20gif&ved=2ahUKEwjzpJOM1Pv7AhWlqScCHdP0A7QQMygEegUIARCQAg" alt="Banner image" />
 <h1 align="center">Hi 👋, I'm IDRISU LATIF</h1>
 <h3 align="center">A passionate fullStack developer from Ghana</h3>
 <img align=“right” alt=“coding ” width=“400” src=“https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwi_5I323fn7AhVZXqQEHVsECKYQMygJegUIARCMAg..i&docid=hyRv46xL2D6dsM&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwi_5I323fn7AhVZXqQEHVsECKYQMygJegUIARCMAg”>
