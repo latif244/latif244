@@ -1,4 +1,4 @@
-![](https://www.google.com/search?q=coding+banner+for+github&sxsrf=ALiCzsZybK-x4du1tTH4CSQIXpCBvluk_g:1672865463376&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjl3c295a78AhV6yLsIHRvzAjQQ_AUoAXoECAEQAw&biw=1139&bih=745&dpr=2#imgrc=dn7igWw0CILxSM)
+![Github Code Banner](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 
 <h1 align="center">Hi 👋, I'm IDRISU LATIF</h1>
 <h3 align="center">A passionate fullStack developer from Ghana</h3>
