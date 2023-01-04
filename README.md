@@ -1,8 +1,11 @@
 ![Github Code Banner](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 
+## About Me
+<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" align="right" height=170 style="border-radius: 20%"/>
+
 <h1 align="center">Hi 👋, I'm IDRISU LATIF</h1>
 <h3 align="center">A passionate fullStack developer from Ghana</h3>
-<img align=“right” alt=“coding ” width=“400” src=“https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwi_5I323fn7AhVZXqQEHVsECKYQMygJegUIARCMAg..i&docid=hyRv46xL2D6dsM&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwi_5I323fn7AhVZXqQEHVsECKYQMygJegUIARCMAg”>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=latif244&label=Profile%20views&color=0e75b6&style=flat" alt="latif244" /> </p>
 
